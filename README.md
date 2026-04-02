@@ -9,4 +9,46 @@
 - 📫 How to reach me:
 - https://www.linkedin.com/in/samuel-v-839912148
 - [samuel.jr1994@gmail.com](https://mail.google.com/mail/samuca.jr1994@gmail.com)
+
+# 📜 Meus Certificados
+
+Clique nos botões abaixo para visualizar meus certificados.
+
+---
+
+## 🟦 Microsoft
+
+<div>
+  <a href="https://learn.microsoft.com/api/achievements/share/pt-br/Junior-2808/FQU6RJ7X?sharingId=641DE018FE5F60CA" target="_blank"><button>Certificado 1</button></a>
+  <a href="https://learn.microsoft.com/api/achievements/share/pt-br/Junior-2808/NM99YH3F?sharingId=641DE018FE5F60CA" target="_blank"><button>Certificado 2</button></a>
+  <a href="https://learn.microsoft.com/api/achievements/share/pt-br/Junior-2808/AKWWCHZ7?sharingId=641DE018FE5F60CA" target="_blank"><button>Certificado 3</button></a>
+  <a href="https://learn.microsoft.com/api/achievements/share/pt-br/Junior-2808/37L6VNPH?sharingId=641DE018FE5F60CA" target="_blank"><button>Certificado 4</button></a>
+  <a href="https://learn.microsoft.com/api/achievements/share/pt-br/Junior-2808/8263PZAW?sharingId=641DE018FE5F60CA" target="_blank"><button>Certificado 5</button></a>
+  <a href="https://learn.microsoft.com/api/achievements/share/pt-br/Junior-2808/9RL2ES6U?sharingId=641DE018FE5F60CA" target="_blank"><button>Certificado 6</button></a>
+</div>
+
+---
+
+## 🟨 DIO
+
+<div>
+  <a href="https://www.dio.me/certificate/DPIVZLZS/share" target="_blank"><button>Certificado 1</button></a>
+  <a href="https://www.dio.me/certificate/MAZSC7YA/share" target="_blank"><button>Certificado 2</button></a>
+  <a href="https://www.dio.me/certificate/VLWM6NM8/share" target="_blank"><button>Certificado 3</button></a>
+  <a href="https://www.dio.me/certificate/MOAZIBX2/share" target="_blank"><button>Certificado 4</button></a>
+  <a href="https://www.dio.me/certificate/UEC98IFL/share" target="_blank"><button>Certificado 5</button></a>
+  <a href="https://www.dio.me/certificate/AA0UINTF/share" target="_blank"><button>Certificado 6</button></a>
+  <a href="https://www.dio.me/certificate/39ZCIN5Y/share" target="_blank"><button>Certificado 7</button></a>
+  <a href="https://www.dio.me/certificate/VDER87UN/share" target="_blank"><button>Certificado 8</button></a>
+  <a href="https://www.dio.me/certificate/NKP8ZRQ8/share" target="_blank"><button>Certificado 9</button></a>
+  <a href="https://www.dio.me/certificate/D7XJEU1F" target="_blank"><button>Certificado 10</button></a>
+  <a href="https://www.dio.me/certificate/BGDHMYIU" target="_blank"><button>Certificado 11</button></a>
+  <a href="https://www.dio.me/certificate/FZUCCORO/share" target="_blank"><button>Certificado 12</button></a>
+  <a href="https://www.dio.me/certificate/DO4EOV3U/share" target="_blank"><button>Certificado 13</button></a>
+  <a href="https://www.dio.me/certificate/HHO1NR0C/share" target="_blank"><button>Certificado 14</button></a>
+  <a href="https://www.dio.me/certificate/1UQBA0T5/share" target="_blank"><button>Certificado 15</button></a>
+  <a href="https://www.dio.me/certificate/PG4SHXAJ/share" target="_blank"><button>Certificado 16</button></a>
+  <a href="https://www.dio.me/certificate/XJBL5ITD/share" target="_blank"><button>Certificado 17</button></a>
+</div>
+- 
 -->
