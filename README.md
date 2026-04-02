@@ -31,24 +31,114 @@ Clique nos botões abaixo para visualizar meus certificados.
 
 ## 🟨 DIO
 
-<div>
-  <a href="https://www.dio.me/certificate/DPIVZLZS/share" target="_blank"><button>Certificado 1</button></a>
-  <a href="https://www.dio.me/certificate/MAZSC7YA/share" target="_blank"><button>Certificado 2</button></a>
-  <a href="https://www.dio.me/certificate/VLWM6NM8/share" target="_blank"><button>Certificado 3</button></a>
-  <a href="https://www.dio.me/certificate/MOAZIBX2/share" target="_blank"><button>Certificado 4</button></a>
-  <a href="https://www.dio.me/certificate/UEC98IFL/share" target="_blank"><button>Certificado 5</button></a>
-  <a href="https://www.dio.me/certificate/AA0UINTF/share" target="_blank"><button>Certificado 6</button></a>
-  <a href="https://www.dio.me/certificate/39ZCIN5Y/share" target="_blank"><button>Certificado 7</button></a>
-  <a href="https://www.dio.me/certificate/VDER87UN/share" target="_blank"><button>Certificado 8</button></a>
-  <a href="https://www.dio.me/certificate/NKP8ZRQ8/share" target="_blank"><button>Certificado 9</button></a>
-  <a href="https://www.dio.me/certificate/D7XJEU1F" target="_blank"><button>Certificado 10</button></a>
-  <a href="https://www.dio.me/certificate/BGDHMYIU" target="_blank"><button>Certificado 11</button></a>
-  <a href="https://www.dio.me/certificate/FZUCCORO/share" target="_blank"><button>Certificado 12</button></a>
-  <a href="https://www.dio.me/certificate/DO4EOV3U/share" target="_blank"><button>Certificado 13</button></a>
-  <a href="https://www.dio.me/certificate/HHO1NR0C/share" target="_blank"><button>Certificado 14</button></a>
-  <a href="https://www.dio.me/certificate/1UQBA0T5/share" target="_blank"><button>Certificado 15</button></a>
-  <a href="https://www.dio.me/certificate/PG4SHXAJ/share" target="_blank"><button>Certificado 16</button></a>
-  <a href="https://www.dio.me/certificate/XJBL5ITD/share" target="_blank"><button>Certificado 17</button></a>
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center;">
+
+<a href="https://github.com/vital-sam/sam.vital/blob/main/certificados/1UQBA0T5.pdf" target="_blank">
+  <button style="margin:8px; padding:10px 16px; border:none; border-radius:8px; background:#0a66c2; color:white; font-weight:bold; cursor:pointer;">
+    📜 Certificado 1UQBA0T5
+  </button>
+</a>
+
+<a href="https://github.com/vital-sam/sam.vital/blob/main/certificados/39ZCIN5Y.pdf" target="_blank">
+  <button style="margin:8px; padding:10px 16px; border:none; border-radius:8px; background:#0a66c2; color:white; font-weight:bold;">
+    📜 Certificado 39ZCIN5Y
+  </button>
+</a>
+
+<a href="https://github.com/vital-sam/sam.vital/blob/main/certificados/92J9CE0M.pdf" target="_blank">
+  <button style="margin:8px; padding:10px 16px; border:none; border-radius:8px; background:#0a66c2; color:white;">
+    📜 Certificado 92J9CE0M
+  </button>
+</a>
+
+<a href="https://github.com/vital-sam/sam.vital/blob/main/certificados/AA0UINTF.pdf" target="_blank">
+  <button style="margin:8px; padding:10px 16px; border:none; border-radius:8px; background:#0a66c2; color:white;">
+    📜 Certificado AA0UINTF
+  </button>
+</a>
+
+<a href="https://github.com/vital-sam/sam.vital/blob/main/certificados/BGDHMYIU.pdf" target="_blank">
+  <button style="margin:8px; padding:10px 16px; border:none; border-radius:8px; background:#0a66c2; color:white;">
+    📜 Certificado BGDHMYIU
+  </button>
+</a>
+
+<a href="https://github.com/vital-sam/sam.vital/blob/main/certificados/D7XJEU1F.pdf" target="_blank">
+  <button style="margin:8px; padding:10px 16px; border:none; border-radius:8px; background:#0a66c2; color:white;">
+    📜 Certificado D7XJEU1F
+  </button>
+</a>
+
+<a href="https://github.com/vital-sam/sam.vital/blob/main/certificados/DO4EOV3U.pdf" target="_blank">
+  <button style="margin:8px; padding:10px 16px; border:none; border-radius:8px; background:#0a66c2; color:white;">
+    📜 Certificado DO4EOV3U
+  </button>
+</a>
+
+<a href="https://github.com/vital-sam/sam.vital/blob/main/certificados/DPIVZLZS.pdf" target="_blank">
+  <button style="margin:8px; padding:10px 16px; border:none; border-radius:8px; background:#0a66c2; color:white;">
+    📜 Certificado DPIVZLZS
+  </button>
+</a>
+
+<a href="https://github.com/vital-sam/sam.vital/blob/main/certificados/FZUCCORO.pdf" target="_blank">
+  <button style="margin:8px; padding:10px 16px; border:none; border-radius:8px; background:#0a66c2; color:white;">
+    📜 Certificado FZUCCORO
+  </button>
+</a>
+
+<a href="https://github.com/vital-sam/sam.vital/blob/main/certificados/HHO1NR0C.pdf" target="_blank">
+  <button style="margin:8px; padding:10px 16px; border:none; border-radius:8px; background:#0a66c2; color:white;">
+    📜 Certificado HHO1NR0C
+  </button>
+</a>
+
+<a href="https://github.com/vital-sam/sam.vital/blob/main/certificados/MAZSC7YA.pdf" target="_blank">
+  <button style="margin:8px; padding:10px 16px; border:none; border-radius:8px; background:#0a66c2; color:white;">
+    📜 Certificado MAZSC7YA
+  </button>
+</a>
+
+<a href="https://github.com/vital-sam/sam.vital/blob/main/certificados/MOAZIBX2.pdf" target="_blank">
+  <button style="margin:8px; padding:10px 16px; border:none; border-radius:8px; background:#0a66c2; color:white;">
+    📜 Certificado MOAZIBX2
+  </button>
+</a>
+
+<a href="https://github.com/vital-sam/sam.vital/blob/main/certificados/NKP8ZRQ8.pdf" target="_blank">
+  <button style="margin:8px; padding:10px 16px; border:none; border-radius:8px; background:#0a66c2; color:white;">
+    📜 Certificado NKP8ZRQ8
+  </button>
+</a>
+
+<a href="https://github.com/vital-sam/sam.vital/blob/main/certificados/PG4SHXAJ.pdf" target="_blank">
+  <button style="margin:8px; padding:10px 16px; border:none; border-radius:8px; background:#0a66c2; color:white;">
+    📜 Certificado PG4SHXAJ
+  </button>
+</a>
+
+<a href="https://github.com/vital-sam/sam.vital/blob/main/certificados/UEC98IFL.pdf" target="_blank">
+  <button style="margin:8px; padding:10px 16px; border:none; border-radius:8px; background:#0a66c2; color:white;">
+    📜 Certificado UEC98IFL
+  </button>
+</a>
+
+<a href="https://github.com/vital-sam/sam.vital/blob/main/certificados/VDER87UN.pdf" target="_blank">
+  <button style="margin:8px; padding:10px 16px; border:none; border-radius:8px; background:#0a66c2; color:white;">
+    📜 Certificado VDER87UN
+  </button>
+</a>
+
+<a href="https://github.com/vital-sam/sam.vital/blob/main/certificados/VLWM6NM8.pdf" target="_blank">
+  <button style="margin:8px; padding:10px 16px; border:none; border-radius:8px; background:#0a66c2; color:white;">
+    📜 Certificado VLWM6NM8
+  </button>
+</a>
+
+<a href="https://github.com/vital-sam/sam.vital/blob/main/certificados/XJBL5ITD.pdf" target="_blank">
+  <button style="margin:8px; padding:10px 16px; border:none; border-radius:8px; background:#0a66c2; color:white;">
+    📜 Certificado XJBL5ITD
+  </button>
+</a>
+
 </div>
-- 
--->
