@@ -141,4 +141,34 @@ Clique nos botões abaixo para visualizar meus certificados.
   </button>
 </a>
 
+<a href="https://github.com/vital-sam/sam.vital/raw/main/certificados/4WM4TXIV.pdf" target="_blank">
+  <button style="padding:10px 16px; border:none; border-radius:10px; background:#0a66c2; color:white; font-weight:600;">
+    📜 Certificado 19
+  </button>
+</a>
+
+<a href="https://github.com/vital-sam/sam.vital/raw/main/certificados/F4CYOBGP.pdf" target="_blank">
+  <button style="padding:10px 16px; border:none; border-radius:10px; background:#0a66c2; color:white; font-weight:600;">
+    📜 Certificado 20
+  </button>
+</a>
+
+<a href="https://github.com/vital-sam/sam.vital/raw/main/certificados/GHJMI9QL.pdf" target="_blank">
+  <button style="padding:10px 16px; border:none; border-radius:10px; background:#0a66c2; color:white; font-weight:600;">
+    📜 Certificado 21
+  </button>
+</a>
+
+<a href="https://github.com/vital-sam/sam.vital/raw/main/certificados/GP1XOWD8.pdf" target="_blank">
+  <button style="padding:10px 16px; border:none; border-radius:10px; background:#0a66c2; color:white; font-weight:600;">
+    📜 Certificado 22
+  </button>
+</a>
+
+<a href="https://github.com/vital-sam/sam.vital/raw/main/certificados/S3SZDJTB.pdf" target="_blank">
+  <button style="padding:10px 16px; border:none; border-radius:10px; background:#0a66c2; color:white; font-weight:600;">
+    📜 Certificado 23
+  </button>
+</a>
+
 </div>
